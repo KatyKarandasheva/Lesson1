@@ -17,8 +17,7 @@ git log --oneline
 
 Перемещение по веткам
 ```sh
-git checkout
-git checkout master
+git checkout <Имя ветки>
 ```
 
 Отображение всех веток
