@@ -24,6 +24,11 @@ git checkout <Имя_ветки>
 ```sh
 git branch
 ```
+Удаление ветки после слияния
+```sh
+git branch -d <Название_ветки>
+```
+
 ```sh
 git merge
 ```
