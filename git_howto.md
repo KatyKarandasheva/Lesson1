@@ -8,7 +8,7 @@ git init
 git add
 ```
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 ```sh
 git log
