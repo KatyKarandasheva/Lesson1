@@ -18,4 +18,9 @@ git log --oneline
 git checkout
 git checkout master
 ```
-
+```sh
+git branch
+```
+```sh
+git merge
+```
