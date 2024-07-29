@@ -19,7 +19,10 @@ git log --oneline
 ```sh
 git checkout <Имя_ветки>
 ```
-
+Создание новой ветки
+```sh
+git branch <Имя_ветки>
+```
 Отображение всех веток
 ```sh
 git branch
