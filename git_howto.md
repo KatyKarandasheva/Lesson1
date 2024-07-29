@@ -14,10 +14,14 @@ git commit -m "Message"
 git log
 git log --oneline
 ```
+
+Перемещение по веткам
 ```sh
 git checkout
 git checkout master
 ```
+
+Отображение всех веток
 ```sh
 git branch
 ```
