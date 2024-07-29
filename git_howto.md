@@ -15,8 +15,7 @@ git log
 git log --oneline
 ```
 ```sh
-git checkout
-git checkout master
+git checkout <branch_name>
 ```
 ```sh
 git branch
