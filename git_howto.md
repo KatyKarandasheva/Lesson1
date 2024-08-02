@@ -82,3 +82,7 @@ git remote -v
 ```sh
 git remote show origin
 ```
+Слияние веток с переписыванием истории веток
+```sh
+git rebase
+```
