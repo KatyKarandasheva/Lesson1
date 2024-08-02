@@ -16,14 +16,19 @@ git commit -m "Message text"
 ```sh
 git log
 git log --oneline
+git log --oneline --graph
+```
+Создание новой ветки
+```sh
+git branch <Имя ветки>
 ```
 Перемещение по веткам
 ```sh
 git checkout <Имя_ветки>
 ```
-Создание новой ветки
+Создание новой ветки и сразу переключение на нее
 ```sh
-git branch <Имя_ветки>
+git chekout -b <Имя ветки>
 ```
 Отображение всех веток
 ```sh
